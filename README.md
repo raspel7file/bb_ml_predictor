@@ -17,7 +17,7 @@ Second, training ML model on this data (see ladder_predictions.ipynb in this rep
 
 Third, raise an app, which does the job of predicting [here](https://huggingface.co/spaces/raspel/BB_predictions).
 
-Fourth, visualize results at AW BI (well, it's tecnically a dashboard, but works as an app interface) [here](https://aw-demo.ru/public/dashboard/DCrmUvVip-0IzdocOJbLoItBTiGog61j)
+Fourth, visualize results at AW BI (well, it's technically a dashboard, but works as an app interface) [here](https://aw-demo.ru/public/dashboard/DCrmUvVip-0IzdocOJbLoItBTiGog61j)
 
 ## Results
 - Model for predicting BB3 Ladder results is created, works with roughly 50% accuracy (1.5 times better than random predicting).  
